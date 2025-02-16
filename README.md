@@ -13,7 +13,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [006_strings](solutions/006_strings.zig)
 - [X] [007_strings2](solutions/007_strings2.zig)
 - [X] [008_quiz](solutions/008_quiz.zig)
-- [ ] 009_if
+- [X] [009_if](solutions/009_if.zig)
 - [ ] 010_if2
 - [ ] 011_while
 - [ ] 012_while2
