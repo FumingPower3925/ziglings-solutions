@@ -5,7 +5,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 
 ## Checklist
 
-- [ ] 001_hello
+- [X] [001_hello](solutions/001_hello.zig)
 - [ ] 002_std
 - [ ] 003_assignment
 - [ ] 004_arrays
