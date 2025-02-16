@@ -11,7 +11,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [004_arrays](solutions/004_arrays.zig)
 - [X] [005_arrays2](solutions/005_arrays2.zig)
 - [X] [006_strings](solutions/006_strings.zig)
-- [ ] 007_strings2
+- [X] [007_strings2](solutions/007_strings2.zig)
 - [ ] 008_quiz
 - [ ] 009_if
 - [ ] 010_if2
