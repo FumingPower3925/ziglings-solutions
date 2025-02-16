@@ -8,7 +8,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [001_hello](solutions/001_hello.zig)
 - [X] [002_std](solutions/002_std.zig)
 - [X] [003_assignment](solutions/003_assignment.zig)
-- [ ] 004_arrays
+- [X] [004_arrays](solutions/004_arrays.zig)
 - [ ] 005_arrays2
 - [ ] 006_strings
 - [ ] 007_strings2
