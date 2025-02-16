@@ -10,7 +10,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [003_assignment](solutions/003_assignment.zig)
 - [X] [004_arrays](solutions/004_arrays.zig)
 - [X] [005_arrays2](solutions/005_arrays2.zig)
-- [ ] 006_strings
+- [X] [006_strings](solutions/006_strings.zig)
 - [ ] 007_strings2
 - [ ] 008_quiz
 - [ ] 009_if
