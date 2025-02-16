@@ -114,4 +114,5 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [ ] 107_files2
 - [ ] 108_labeled_switch
 - [ ] 109_vectors
+- [ ] 110_quiz9
 - [ ] 999_the_end
