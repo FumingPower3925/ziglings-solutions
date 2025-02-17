@@ -23,7 +23,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [016_for2](solutions/016_for2.zig)
 - [X] [017_quiz2](solutions/017_quiz2.zig)
 - [X] [018_functions](solutions/018_functions.zig)
-- [ ] 019_functions2
+- [X] [019_functions2](solutions/019_functions2.zig)
 - [ ] 020_quiz3
 - [ ] 021_errors
 - [ ] 022_errors2
