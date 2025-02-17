@@ -21,7 +21,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [014_while4](solutions/014_while4.zig)
 - [X] [015_for](solutions/015_for.zig)
 - [X] [016_for2](solutions/016_for2.zig)
-- [ ] 017_quiz2
+- [X] [017_quiz2](solutions/017_quiz2.zig)
 - [ ] 018_functions
 - [ ] 019_functions2
 - [ ] 020_quiz3
