@@ -27,7 +27,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [020_quiz3](solutions/020_quiz3.zig)
 - [X] [021_errors](solutions/021_errors.zig)
 - [X] [022_errors2](solutions/022_errors2.zig)
-- [ ] 023_errors3
+- [X] [023_errors3](solutions/023_errors3.zig)
 - [ ] 024_errors4
 - [ ] 025_errors5
 - [ ] 026_hello2
