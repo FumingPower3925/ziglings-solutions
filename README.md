@@ -33,7 +33,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [026_hello2](solutions/026_hello2.zig)
 - [X] [027_defer](solutions/027_defer.zig)
 - [X] [028_defer2](solutions/028_defer2.zig)
-- [ ] 029_errdefer
+- [X] [029_errdefer](solutions/029_errdefer.zig)
 - [ ] 030_switch
 - [ ] 031_switch2
 - [ ] 032_unreachable
