@@ -37,7 +37,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [030_switch](solutions/030_switch.zig)
 - [X] [031_switch2](solutions/031_switch2.zig)
 - [X] [032_unreachable](solutions/032_unreachable.zig)
-- [ ] 033_iferror
+- [X] [033_iferror](solutions/033_iferror.zig)
 - [ ] 034_quiz4
 - [ ] 035_enums
 - [ ] 036_enums2
