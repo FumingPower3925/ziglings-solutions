@@ -41,7 +41,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [034_quiz4](solutions/034_quiz4.zig)
 - [X] [035_enums](solutions/035_enums.zig)
 - [X] [036_enums2](solutions/036_enums2.zig)
-- [ ] 037_structs
+- [X] [037_structs](solutions/037_structs.zig)
 - [ ] 038_structs2
 - [ ] 039_pointers
 - [ ] 040_pointers2
