@@ -39,7 +39,7 @@ This set of little exercises are one of the best ways to learn the Zig programmi
 - [X] [032_unreachable](solutions/032_unreachable.zig)
 - [X] [033_iferror](solutions/033_iferror.zig)
 - [X] [034_quiz4](solutions/034_quiz4.zig)
-- [ ] 035_enums
+- [X] [035_enums](solutions/035_enums.zig)
 - [ ] 036_enums2
 - [ ] 037_structs
 - [ ] 038_structs2
